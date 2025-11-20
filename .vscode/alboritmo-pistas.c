@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// --- Estruturas de Dados ---
+// ---- Estruturas de Dados ----
 typedef struct Comodo {
     char nome[50];
     char pista[100]; 
